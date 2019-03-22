@@ -1,4 +1,7 @@
 # Prosograph
+
+NOTE: This project is currently only maintained in the original repository: https://github.com/alpoktem/Prosograph
+
 A Visualizer for prosodically annotated speech corpora written in Processing.
 
 In the **dataset** directory you can find two sample data from TED talks. 
